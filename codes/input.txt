@@ -1,0 +1,2 @@
+Node.JS is highly scalable server side programming language.
+It use both asynchronous & synchronous functions
